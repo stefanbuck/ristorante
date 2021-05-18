@@ -1,0 +1,38 @@
+name: Process order
+on:
+  issues:
+    types: opened
+concurrency: 'main'
+jobs:
+  place_order:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: stefanbuck/github-issue-praser@main
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/order-pizza.yml
+
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - run: git pull origin main --rebase
+      - run: cat ${GITHUB_EVENT_PATH}
+
+      - run: echo ${{ toJSON(steps.issue-parser.outputs.jsonString) }} > order.json
+
+      - run: node ./place-order.js
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com" && \
+          git config --global user.name "github-actions[bot]" && \
+          git add README.md && \
+          git commit -m 'Place order' && \
+          git push
+
+      - uses: peter-evans/close-issue@v1
+        with:
+          comment: Pizza time! Check out the <a href="../">README</a>.

@@ -1,0 +1,63 @@
+name: Want some pizza?
+description: Codeless contribution made easy!
+labels: [order]
+
+title: "Order Pizza"
+
+body:
+- type: dropdown
+  id: flavour
+  attributes:
+    label: Choose your pizza flavour
+    options:
+      - Veg Tikka
+      - Hawaiian
+      - Regina Pizza
+      - Chicken and Mushroom
+      - Chicken Tikka
+      - Peri-Peri Chicken
+      - BBQ Steak
+      - Boerewors
+  validations:
+    required: true
+
+- type: dropdown
+  id: size
+  attributes:
+    label: Choose your size
+    options:
+      - Small
+      - Regular
+      - Large
+  validations:
+    required: true
+
+- type: dropdown
+  id: toppings
+  attributes:
+    label: Choose your toppings
+    options:
+      - Tomato
+      - Onions
+      - Mushroom
+      - Green Pepper
+      - Olives
+      - Pineapple
+      - Sweet Corn
+      - Macon
+  validations:
+    required: true
+
+- type: input
+  id: count
+  attributes:
+    label: Number of Pizza's
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: I acknowledge that submitting this issue does not claim a real pizza order
+    options:
+      - label: Confirm
+        required: true
