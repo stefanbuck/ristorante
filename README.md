@@ -14,3 +14,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 
 1. [@stefanbuck](https://github.com/stefanbuck) orders 3 regular regina pizza pizza with mushroom
 1. [@staabm](https://github.com/staabm) orders 1 large boerewors pizza with pineapple
+1. [@OlivierJaquemet](https://github.com/OlivierJaquemet) orders 42 large veg tikka pizza with olives
