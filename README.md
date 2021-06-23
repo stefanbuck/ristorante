@@ -13,3 +13,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 # Orders
 
 1. [@stefanbuck](https://github.com/stefanbuck) orders 3 regular regina pizza pizza with mushroom
+1. [@staabm](https://github.com/staabm) orders 1 large boerewors pizza with pineapple
