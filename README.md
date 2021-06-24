@@ -18,3 +18,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@Theta-Dev](https://github.com/Theta-Dev) orders 1 regular regina pizza pizza with sweet corn
 1. [@AngelMunoz](https://github.com/AngelMunoz) orders 3 regular bbq steak pizza with macon
 1. [@matthewferry](https://github.com/matthewferry) orders 1 regular veg tikka pizza with onions
+1. [@alknemeyer](https://github.com/alknemeyer) orders 3 large boerewors pizza with macon
