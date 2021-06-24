@@ -16,3 +16,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@staabm](https://github.com/staabm) orders 1 large boerewors pizza with pineapple
 1. [@OlivierJaquemet](https://github.com/OlivierJaquemet) orders 42 large veg tikka pizza with olives
 1. [@Theta-Dev](https://github.com/Theta-Dev) orders 1 regular regina pizza pizza with sweet corn
+1. [@AngelMunoz](https://github.com/AngelMunoz) orders 3 regular bbq steak pizza with macon
