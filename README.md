@@ -21,3 +21,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@alknemeyer](https://github.com/alknemeyer) orders 3 large boerewors pizza with macon
 1. [@wildmolasses](https://github.com/wildmolasses) orders 1 large hawaiian pizza with macon
 1. [@marco-acorte](https://github.com/marco-acorte) orders 1 large regina pizza pizza with onions
+1. [@alfredbez](https://github.com/alfredbez) orders 1 small chicken tikka pizza with tomato
