@@ -24,3 +24,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@alfredbez](https://github.com/alfredbez) orders 1 small chicken tikka pizza with tomato
 1. [@Clivern](https://github.com/Clivern) orders 1 regular hawaiian pizza with tomato
 1. [@kamikazechaser](https://github.com/kamikazechaser) orders 4 large peri-peri chicken pizza with tomato
+1. [@isbadawi](https://github.com/isbadawi) orders 1 regular chicken and mushroom pizza with green pepper
