@@ -7,20 +7,20 @@ jobs:
   place_order:
     runs-on: ubuntu-latest
     steps:
-      - uses: stefanbuck/github-issue-praser@main
-        id: issue-parser
-        with:
-          template-path: .github/ISSUE_TEMPLATE/order-pizza.yml
-
       - uses: actions/checkout@v2
+
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
 
-      - run: git pull origin main --rebase
-      - run: cat ${GITHUB_EVENT_PATH}
+      - uses: stefanbuck/github-issue-praser@v2
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/order-pizza.yml
 
-      - run: echo ${{ toJSON(steps.issue-parser.outputs.jsonString) }} > order.json
+      - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > order.json
+
+      - run: cat order.json
 
       - run: node ./place-order.js
 
