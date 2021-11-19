@@ -27,3 +27,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@isbadawi](https://github.com/isbadawi) orders 1 regular chicken and mushroom pizza with green pepper
 1. [@stefanbuck](https://github.com/stefanbuck) orders 3 Small Veg Tikka pizza with Mushroom
 1. [@Cfrolich13](https://github.com/Cfrolich13) orders 15 Large Chicken and Mushroom pizza with Green Pepper
+1. [@RegMTS](https://github.com/RegMTS) orders 1 Small Regina Pizza pizza with Tomato
