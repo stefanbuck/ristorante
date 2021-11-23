@@ -29,3 +29,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@Cfrolich13](https://github.com/Cfrolich13) orders 15 Large Chicken and Mushroom pizza with Green Pepper
 1. [@RegMTS](https://github.com/RegMTS) orders 1 Small Regina Pizza pizza with Tomato
 1. [@Dutchy-](https://github.com/Dutchy-) orders 2 Large BBQ Steak pizza with Green Pepper
+1. [@LukeWood](https://github.com/LukeWood) orders 2 Large Hawaiian pizza with Pineapple
