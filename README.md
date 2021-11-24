@@ -32,3 +32,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@LukeWood](https://github.com/LukeWood) orders 2 Large Hawaiian pizza with Pineapple
 1. [@dferber90](https://github.com/dferber90) orders 1 Regular Hawaiian pizza with Pineapple
 1. [@der3k](https://github.com/der3k) orders 3 Regular Chicken Tikka pizza with Olives
+1. [@danillos](https://github.com/danillos) orders 2 Small Hawaiian pizza with Onions
