@@ -37,3 +37,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@michael-wolfenden](https://github.com/michael-wolfenden) orders 4 Regular Chicken and Mushroom pizza with Olives
 1. [@zhaiyiting](https://github.com/zhaiyiting) orders 111 Regular Veg Tikka pizza with Mushroom
 1. [@jeffpaul](https://github.com/jeffpaul) orders 1 Large Chicken Tikka pizza with Macon
+1. [@tjerabek](https://github.com/tjerabek) orders 2 Small BBQ Steak pizza with Tomato
