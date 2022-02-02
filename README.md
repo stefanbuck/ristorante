@@ -42,3 +42,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@myspotontheweb](https://github.com/myspotontheweb) orders 1 Large Hawaiian pizza with Sweet Corn
 1. [@bloomkd46](https://github.com/bloomkd46) orders 1 Small BBQ Steak pizza with Olives
 1. [@regiio](https://github.com/regiio) orders 1 Regular Hawaiian pizza with Onions
+1. [@manaspatnaik](https://github.com/manaspatnaik) orders 10 Large Veg Tikka pizza with Onions
