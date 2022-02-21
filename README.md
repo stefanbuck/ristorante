@@ -44,3 +44,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@regiio](https://github.com/regiio) orders 1 Regular Hawaiian pizza with Onions
 1. [@manaspatnaik](https://github.com/manaspatnaik) orders 10 Large Veg Tikka pizza with Onions
 1. [@briscox1](https://github.com/briscox1) orders 3 Large BBQ Steak pizza with Green Pepper
+1. [@andrewstech](https://github.com/andrewstech) orders 1 Regular Chicken Tikka pizza with Onions
