@@ -45,3 +45,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@manaspatnaik](https://github.com/manaspatnaik) orders 10 Large Veg Tikka pizza with Onions
 1. [@briscox1](https://github.com/briscox1) orders 3 Large BBQ Steak pizza with Green Pepper
 1. [@andrewstech](https://github.com/andrewstech) orders 1 Regular Chicken Tikka pizza with Onions
+1. [@CexyNature](https://github.com/CexyNature) orders 1 Large Regina Pizza pizza with Mushroom
