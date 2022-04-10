@@ -47,3 +47,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@andrewstech](https://github.com/andrewstech) orders 1 Regular Chicken Tikka pizza with Onions
 1. [@CexyNature](https://github.com/CexyNature) orders 1 Large Regina Pizza pizza with Mushroom
 1. [@Floriansimmer](https://github.com/Floriansimmer) orders 1 Large BBQ Steak pizza with Macon
+1. [@hendrysadrak](https://github.com/hendrysadrak) orders 1 Large BBQ Steak pizza with Olives
