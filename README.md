@@ -48,3 +48,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@CexyNature](https://github.com/CexyNature) orders 1 Large Regina Pizza pizza with Mushroom
 1. [@Floriansimmer](https://github.com/Floriansimmer) orders 1 Large BBQ Steak pizza with Macon
 1. [@hendrysadrak](https://github.com/hendrysadrak) orders 1 Large BBQ Steak pizza with Olives
+1. [@tabularelf](https://github.com/tabularelf) orders 5 Large Hawaiian pizza with Pineapple
