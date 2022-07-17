@@ -50,3 +50,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@hendrysadrak](https://github.com/hendrysadrak) orders 1 Large BBQ Steak pizza with Olives
 1. [@tabularelf](https://github.com/tabularelf) orders 5 Large Hawaiian pizza with Pineapple
 1. [@andraz](https://github.com/andraz) orders 1 Small Regina Pizza pizza with Mushroom
+1. [@karthik-philips-ta](https://github.com/karthik-philips-ta) orders 1 Small Veg Tikka pizza with Tomato
