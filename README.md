@@ -52,3 +52,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@andraz](https://github.com/andraz) orders 1 Small Regina Pizza pizza with Mushroom
 1. [@karthik-philips-ta](https://github.com/karthik-philips-ta) orders 1 Small Veg Tikka pizza with Tomato
 1. [@deleolajide](https://github.com/deleolajide) orders 4 Regular Hawaiian pizza with Pineapple
+1. [@mraarone](https://github.com/mraarone) orders 1 Small Hawaiian pizza with Pineapple
