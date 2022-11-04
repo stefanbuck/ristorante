@@ -55,3 +55,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@mraarone](https://github.com/mraarone) orders 1 Small Hawaiian pizza with Pineapple
 1. [@vanessalutz](https://github.com/vanessalutz) orders 4 Large Peri-Peri Chicken pizza with Onions
 1. [@caseyg](https://github.com/caseyg) orders 2 Regular Hawaiian pizza with Tomato
+1. [@harleymckenzie](https://github.com/harleymckenzie) orders 1 Large Hawaiian pizza with Onions
