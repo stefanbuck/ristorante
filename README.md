@@ -62,3 +62,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@filipemiguelrocha](https://github.com/filipemiguelrocha) orders 1 Small Chicken Tikka pizza with Tomato
 1. [@woodcox](https://github.com/woodcox) orders 1 Regular Peri-Peri Chicken pizza with Onions
 1. [@paresh-deshmukh](https://github.com/paresh-deshmukh) orders 1 Small Veg Tikka pizza with Tomato
+1. [@seanorama](https://github.com/seanorama) orders 1 Regular Veg Tikka pizza with Mushroom
