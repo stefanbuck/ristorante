@@ -74,3 +74,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@allanparsons](https://github.com/allanparsons) orders 90 Regular Regina Pizza pizza with Pineapple
 1. [@nicolekjones](https://github.com/nicolekjones) orders 7 Regular Chicken Tikka pizza with Mushroom
 1. [@jezierskj](https://github.com/jezierskj) orders 4 Regular Regina Pizza pizza with Mushroom
+1. [@geromegrignon](https://github.com/geromegrignon) orders 12 Small Veg Tikka pizza with Tomato
