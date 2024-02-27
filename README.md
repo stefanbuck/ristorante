@@ -80,3 +80,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@ajay-bhargava](https://github.com/ajay-bhargava) orders 1 Small Veg Tikka pizza with Tomato
 1. [@bamurtaugh](https://github.com/bamurtaugh) orders 1 Small Veg Tikka pizza with Tomato
 1. [@larsbuntemeyer](https://github.com/larsbuntemeyer) orders 1 Small Veg Tikka pizza with Tomato
+1. [@lazharb](https://github.com/lazharb) orders 2 Small Veg Tikka pizza with Tomato
