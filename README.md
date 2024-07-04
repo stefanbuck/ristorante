@@ -85,3 +85,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@endakelly](https://github.com/endakelly) orders 1 Small Veg Tikka pizza with Tomato
 1. [@smnorris](https://github.com/smnorris) orders 2 Regular Chicken and Mushroom pizza with Olives
 1. [@einarwar](https://github.com/einarwar) orders 4 Large Peri-Peri Chicken pizza with Sweet Corn
+1. [@slagelwa](https://github.com/slagelwa) orders 7 Regular Regina Pizza pizza with Sweet Corn
