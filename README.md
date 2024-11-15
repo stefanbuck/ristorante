@@ -90,3 +90,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@kjetilk-kontali](https://github.com/kjetilk-kontali) orders 12 Large BBQ Steak pizza with Tomato
 1. [@gjolga](https://github.com/gjolga) orders 1 Regular Veg Tikka pizza with Green Pepper
 1. [@t4k](https://github.com/t4k) orders 1 Large Hawaiian pizza with Green Pepper
+1. [@t4k](https://github.com/t4k) orders 1 Small Veg Tikka pizza with Tomato
