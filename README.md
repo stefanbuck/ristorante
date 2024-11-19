@@ -92,3 +92,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@t4k](https://github.com/t4k) orders 1 Large Hawaiian pizza with Green Pepper
 1. [@t4k](https://github.com/t4k) orders 1 Small Veg Tikka pizza with Tomato
 1. [@stefanbuck](https://github.com/stefanbuck) orders 2 Large Peri-Peri Chicken pizza with Onions
+1. [@glyad](https://github.com/glyad) orders 2 Regular Regina Pizza pizza with Tomato
