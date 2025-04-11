@@ -96,3 +96,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@ThisNoName](https://github.com/ThisNoName) orders 1 Regular Chicken and Mushroom pizza with Mushroom
 1. [@stefanbuck](https://github.com/stefanbuck) orders 2 Small Veg Tikka pizza with Sweet Corn
 1. [@Simon-McIntosh](https://github.com/Simon-McIntosh) orders 1 Small Regina Pizza pizza with Tomato
+1. [@raman-verma](https://github.com/raman-verma) orders 1 Small Veg Tikka pizza with Tomato
