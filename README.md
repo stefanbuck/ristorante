@@ -99,3 +99,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@raman-verma](https://github.com/raman-verma) orders 1 Small Veg Tikka pizza with Tomato
 1. [@joshcampbell191](https://github.com/joshcampbell191) orders 12 Regular Veg Tikka pizza with Pineapple
 1. [@robarros](https://github.com/robarros) orders 1 Regular Hawaiian pizza with Olives
+1. [@jorgeteixe](https://github.com/jorgeteixe) orders 4 Large BBQ Steak pizza with Olives
